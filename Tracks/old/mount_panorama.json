@@ -1,0 +1,10 @@
+{
+    "alerts": [
+        {
+            "name": "pit_gap",
+            "spline": 0.7
+        }
+    ],
+    "pit_DT_s": 19,
+    "turns": []
+}

@@ -1,0 +1,6 @@
+env_pc/
+Sessions/
+__pycache__
+*.pkl
+*.pkl.old
+scratch/

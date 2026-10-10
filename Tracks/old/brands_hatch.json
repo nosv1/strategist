@@ -1,0 +1,11 @@
+{
+    "alerts": [
+        {
+            "name": "pit_gap",
+            "spline": 0.78
+        }
+    ],
+    "pit_DT_s": 18,
+    "turns": [],
+    "race_pace_s": 83.963
+}

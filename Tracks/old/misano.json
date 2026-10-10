@@ -1,0 +1,20 @@
+{
+    "alerts": [
+        {
+            "name": "race_update",
+            "spline": 0.559
+        },
+        {
+            "name": "max_quali_pace",
+            "spline": 0.9519
+        },
+        {
+            "name": "tc",
+            "spline": 0.84,
+            "min_value": 6
+        }
+    ],
+    "pit_DT_s": 29,
+    "turns": [],
+    "race_pace_s": 94.000
+}
